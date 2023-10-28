@@ -46,10 +46,6 @@ Replace `<script_name>` with the name you've given to the script.
 
 - **Pubudu Dias** - *Initial work* - [Date: 2023/04/13]
 
-## Acknowledgments
-
-- OpenAI's ChatGPT for README preparation.
-
 ## Recommendations
 
 For added functionality, consider:
